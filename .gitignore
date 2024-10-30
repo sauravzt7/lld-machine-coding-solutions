@@ -1,0 +1,25 @@
+# Compiled class files
+target/
+bin/
+
+# Maven artifacts
+*.jar
+*.war
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
