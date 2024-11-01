@@ -59,7 +59,7 @@ public class SnakeladdergameApplication implements CommandLineRunner {
         System.out.println("Enter name for Player 1: ");
         String player1Name = "Saurav ";
         System.out.println("Enter name for Player 2: ");
-        String player2Name = "Parakh ";
+        String player2Name = "Nischi ";
 
         Player player1 = new Player(player1Name, 0);
         Player player2 = new Player(player2Name, 0);
